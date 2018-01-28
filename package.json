@@ -1,0 +1,24 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build" : "node ./node_modules/webpack/bin/webpack.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosatoshi/react-from-scratch.git"
+  },
+  "author": "Thiago Suzuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagosatoshi/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/thiagosatoshi/react-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
