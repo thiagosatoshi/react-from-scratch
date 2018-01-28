@@ -1,3 +1,3 @@
 # react-from-scratch
 
-## This is is currently a WIP repo to setup a complete boilerplate for react
+## This is a WIP repository to setup a complete boilerplate for react from scratch
