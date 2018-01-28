@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/thiagosatoshi/react-from-scratch/issues"
   },
-  "homepage": "https://github.com/thiagosatoshi/react-from-scratch#readme"
+  "homepage": "https://github.com/thiagosatoshi/react-from-scratch#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
 }
